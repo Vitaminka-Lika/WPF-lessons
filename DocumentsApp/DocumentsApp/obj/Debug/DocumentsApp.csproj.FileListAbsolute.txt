@@ -1,0 +1,14 @@
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\bin\Debug\DocumentsApp.exe.config
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\bin\Debug\DocumentsApp.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\bin\Debug\DocumentsApp.pdb
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\MainWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\App.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp_MarkupCompile.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp_MarkupCompile.lref
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\MainWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp.g.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp.Properties.Resources.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp.csproj.GenerateResource.Cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\DocumentsApp\DocumentsApp\obj\Debug\DocumentsApp.pdb
