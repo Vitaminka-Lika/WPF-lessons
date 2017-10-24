@@ -1,0 +1,18 @@
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\bin\Debug\24.10.17 Binding.exe.config
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\bin\Debug\24.10.17 Binding.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\bin\Debug\24.10.17 Binding.pdb
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\MainWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\App.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding_MarkupCompile.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding_MarkupCompile.lref
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\MainWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding.g.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\_24._10._17_Binding.Properties.Resources.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding.csproj.GenerateResource.Cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\24.10.17 Binding.pdb
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\AccountWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\AccountWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\ProductsWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\24.10.17 Binding\24.10.17 Binding\obj\Debug\ProductsWindow.baml
