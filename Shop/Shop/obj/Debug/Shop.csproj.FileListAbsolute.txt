@@ -1,0 +1,14 @@
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\MainWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\App.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop_MarkupCompile.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop_MarkupCompile.lref
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\bin\Debug\Shop.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\bin\Debug\Shop.pdb
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\MainWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop.g.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\Shop\Shop\obj\Debug\Shop.pdb
