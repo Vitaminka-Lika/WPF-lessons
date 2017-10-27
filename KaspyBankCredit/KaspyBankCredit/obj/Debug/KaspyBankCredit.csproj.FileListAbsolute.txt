@@ -1,0 +1,17 @@
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\MainWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\RegistrationWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\App.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit_MarkupCompile.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit_MarkupCompile.lref
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\bin\Debug\KaspyBankCredit.exe.config
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\bin\Debug\KaspyBankCredit.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\bin\Debug\KaspyBankCredit.pdb
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\App.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\MainWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\RegistrationWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit.g.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit.Properties.Resources.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit.csproj.GenerateResource.Cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\KaspyBankCredit\KaspyBankCredit\obj\Debug\KaspyBankCredit.pdb

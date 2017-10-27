@@ -1,0 +1,20 @@
+﻿<Window x:Class="KaspyBankCredit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KaspyBankCredit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300" >
+    <Grid Background="#FFCA0014">
+        <Label Content="Войти" HorizontalAlignment="Left" Margin="137,54,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="ИИН" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="58" FontSize="14" Height="26"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" Height="26" Width="58"/>
+        <PasswordBox Name="passwordPasswordBox" HorizontalAlignment="Left" Margin="73,124,0,0" VerticalAlignment="Top" Width="209" Height="26"/>
+        <TextBox Name="pinTextBox" HorizontalAlignment="Left" Height="26" Margin="73,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209"/>
+        <Button Name="registrationButton" Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="10,223,0,0" VerticalAlignment="Top" Width="164" FontSize="16" Click="RegistrationButton_Click" Background="#FF0087CE" Height="36"/>
+        <Button Name="signInButton" Content="Войти" HorizontalAlignment="Left" Margin="207,223,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Height="36" Click="SignInButton_Click"/>
+        <Image HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="115" Margin="10,10,0,0" Source="logo.jpg"/>
+        <Label Name="errorLabel" Content="" HorizontalAlignment="Left" Margin="10,155,0,0" VerticalAlignment="Top" Width="272"/>
+    </Grid>
+</Window>
