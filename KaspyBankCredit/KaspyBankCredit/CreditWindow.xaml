@@ -5,27 +5,27 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KaspyBankCredit"
         mc:Ignorable="d"
-        Title="CreditWindow" Height="500" Width="600">
+        Title="CreditWindow" Height="410" Width="600">
     <Grid Background="#FFCA0014">
         <Image HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="115" Margin="10,10,0,0" Source="logo.jpg"/>
-        <Label Content="Оформить заявку на кредит" HorizontalAlignment="Left" Margin="173,17,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Оформить заявку на кредит" HorizontalAlignment="Left" Margin="187,10,0,0" VerticalAlignment="Top" FontSize="18"/>
         <Label Content="Сумма кредита:" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top"/>
-        <TextBox Name="moneyTextBox" HorizontalAlignment="Left" Height="24" Margin="126,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Тенге" HorizontalAlignment="Left" Margin="260,79,0,0" VerticalAlignment="Top" Width="58"/>
-        <Label Content="Максимальный размер кредита 1 000 000 000" HorizontalAlignment="Left" Margin="324,79,0,0" VerticalAlignment="Top" Background="#FF6E6B6B"/>
-        <Slider Name="moneySlider" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="572" Maximum="1000000000" LargeChange="50000" SmallChange="5000" TickFrequency="5000" Value="-1" ValueChanged="MoneySlider_ValueChanged"/>
-        <Label Content="Срок кредита:" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="monthTextBox" HorizontalAlignment="Left" Height="24" Margin="126,159,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Месяцев" HorizontalAlignment="Left" Margin="260,159,0,0" VerticalAlignment="Top"/>
-        <Label Content="Максимальный срок 120 месяцев" HorizontalAlignment="Left" Margin="324,159,0,0" VerticalAlignment="Top" Background="#FF6E6B6B" Width="263"/>
-        <GroupBox Header="Месяцы" HorizontalAlignment="Left" Height="98" Margin="10,188,0,0" VerticalAlignment="Top" Width="577" FontSize="14" Foreground="White" Background="#FF4A4A4A">
+        <TextBox Name="moneyTextBox" HorizontalAlignment="Left" Height="24" Margin="111,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <Label Content="Тенге" HorizontalAlignment="Left" Margin="248,79,0,0" VerticalAlignment="Top" Width="70"/>
+        <Label Content="Максимальный размер кредита 1 000 000" HorizontalAlignment="Left" Margin="324,79,0,0" VerticalAlignment="Top" Background="#FF6E6B6B" Width="263"/>
+        <Slider Name="moneySlider" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" Width="572" Maximum="1000000" LargeChange="50000" SmallChange="5000" TickFrequency="5000" Value="-1" ValueChanged="MoneySlider_ValueChanged"/>
+        <Label Content="Срок выплаты кредита:" HorizontalAlignment="Left" Margin="10,148,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="monthTextBox" HorizontalAlignment="Left" Height="24" Margin="153,148,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="131"/>
+        <Label Content="Месяцев" HorizontalAlignment="Left" Margin="289,148,0,0" VerticalAlignment="Top" Width="58"/>
+        <Label Content="Максимальный срок 120 месяцев" HorizontalAlignment="Left" Margin="352,148,0,0" VerticalAlignment="Top" Background="#FF6E6B6B" Width="235"/>
+        <GroupBox Header="Месяцы" HorizontalAlignment="Left" Height="98" Margin="10,177,0,0" VerticalAlignment="Top" Width="577" FontSize="14" Foreground="White" Background="#FF4A4A4A">
             <Canvas HorizontalAlignment="Left" Height="74" Margin="0,0,-2,-2" VerticalAlignment="Top" Width="567">
                 <RadioButton Name="sixMonthRadioButton" Content="6 мес." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
                 <RadioButton Name="twelveMonthRadioButton" Content="12 мес." Canvas.Left="10" Canvas.Top="31"/>
                 <RadioButton Name="thirtySixMonthRadioButton" Content="36 мес." Canvas.Left="235" Canvas.Top="31"/>
-                <RadioButton Content="60 мес." Canvas.Left="451" Canvas.Top="31"/>
-                <RadioButton Content="120 мес." Canvas.Left="451" Canvas.Top="10"/>
-                <RadioButton Content="24 мес." Canvas.Left="235" Canvas.Top="10"/>
+                <RadioButton Name="sixtyMonthRadioButton" Content="60 мес." Canvas.Left="447" Canvas.Top="10"/>
+                <RadioButton Name="hundredTwentyMonthRadioButton" Content="120 мес." Canvas.Left="447" Canvas.Top="31"/>
+                <RadioButton Name="twentyFourMonthRadioButton" Content="24 мес." Canvas.Left="235" Canvas.Top="10"/>
 
             </Canvas>
         </GroupBox>
@@ -33,6 +33,7 @@
         <TextBox Name="InitialFeeTextBox" HorizontalAlignment="Left" Height="24" Margin="173,301,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Label Content="Минимальный взнос 3%" HorizontalAlignment="Left" Margin="324,301,0,0" VerticalAlignment="Top" Background="#FF6E6B6B" Width="263"/>
         <Label Content="%" HorizontalAlignment="Left" Margin="298,301,0,0" VerticalAlignment="Top" Width="20"/>
-
+        <Label Name="errorLabel" Content="" HorizontalAlignment="Left" Margin="10,330,0,0" VerticalAlignment="Top" Width="418" Height="39"/>
+        <Button Name="applyButton" Content="Подать заявку" HorizontalAlignment="Left" Margin="433,330,0,0" VerticalAlignment="Top" Width="149" Height="39" FontSize="16" FontWeight="Bold" Click="ApplyButton_Click"/>
     </Grid>
 </Window>

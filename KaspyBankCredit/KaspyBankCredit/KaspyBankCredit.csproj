@@ -60,6 +60,7 @@
     <Compile Include="RegistrationWindow.xaml.cs">
       <DependentUpon>RegistrationWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Request.cs" />
     <Compile Include="Service.cs" />
     <Compile Include="User.cs" />
     <Page Include="CreditWindow.xaml">

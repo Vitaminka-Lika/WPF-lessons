@@ -20,7 +20,8 @@ namespace KaspyBankCredit
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+        List<User> users = new List<User>();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -29,6 +30,7 @@ namespace KaspyBankCredit
         private void RegistrationButton_Click(object sender, RoutedEventArgs e)
         {
             Service service = new Service();
+            service.GetUsers(ref users);
             service.Register();
             Hide();
         }
@@ -42,14 +44,23 @@ namespace KaspyBankCredit
             };
 
             Service service = new Service();
+            service.GetUsers(ref users);
             if (service.SignInCheck(checkThisUser))
             {
-                service
+                User correctUser = new User();
+                correctUser = users.Find(parameter => parameter.PIN == checkThisUser.PIN);
+                service.Accept(ref correctUser);
+                Hide();
             }
             else {
                 errorLabel.Content = "Ошибка ввода";
             }
-            Hide();
+            
+        }
+
+        public void GetUsers(ref List<User> currentUsers)
+        {
+            users = currentUsers;
         }
     }
 }

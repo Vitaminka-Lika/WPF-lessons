@@ -27,6 +27,7 @@ namespace KaspyBankCredit
         private void RegisterButton_Click(object sender, RoutedEventArgs e)
         {
             Service service = new Service(); 
+
             Person currentPerson = new Person()
             {
                 Name=nameTextBox.Text,
